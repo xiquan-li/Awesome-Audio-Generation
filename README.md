@@ -1,7 +1,7 @@
 # Awesome Text-to-Audio Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 This is a repository organizing papers, codes and other resources related to Text-to-Audio Generation (TTA), where **audio** denotes primarily **ambiant sound or music**.
-Note: Resources related to speech synthesis are not included in this repo.  
+<!-- Note: Resources related to speech synthesis are not included in this repo.   -->
 
 Welcome to PR if you want to add some resources !
 <!-- - [x] Add T2A resources  -->
@@ -9,7 +9,7 @@ Welcome to PR if you want to add some resources !
 
 ## Papers
 
-### Foundational TTA Models
+### TTA Foundation Models
 
 - Fugatto 1: Foundational Generative Audio Transformer Opus 1 [ICLR 2025] [Paper](https://openreview.net/forum?id=B2Fqu7Y2cd)
 
