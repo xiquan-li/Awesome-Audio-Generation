@@ -63,23 +63,23 @@ Welcome to PR if you want to add some resources !
 
 
 ### TTA with Fine-grained Control
-- T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.09294) / [Code](https://github.com/YoonjinXD/T-foley)
-
 - Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations [ICASSP 2025] [Paper](https://arxiv.org/abs/2412.08550)
+
+- AudioComposer: Towards Fine-grained Audio Generation with Natural Language Descriptions [ICASSP 2025] [Paper](https://arxiv.org/abs/2409.12560) / [Code](https://github.com/lavendery/AudioComposer/tree/main)
 
 - SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.09789)
 
-- RiTTA: Modeling Event Relations in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.15922)
-
 - PicoAudio: Enabling Precise Timestamp and Frequency Controllability of Audio Events in Text-to-audio Generation [ICASSP 2025] [Paper](https://arxiv.org/abs/2407.02869) / [Code](https://github.com/zeyuxie29/PicoAudio)
+
+- RiTTA: Modeling Event Relations in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.15922)
 
 - Controllable Text-to-Audio Generation with Training-Free Temporal Guidance Diffusion [ICME 2024] [Paper](https://ieeexplore.ieee.org/document/10687830) 
 
 - Continuous descriptor-based control for deep audio synthesis [ICASSP 2023] / [Code](https://github.com/neurorave/neurorave)
 
-- AudioComposer: Towards Fine-grained Audio Generation with Natural Language Descriptions [ICASSP 2025] [Paper](https://arxiv.org/abs/2409.12560) / [Code](https://github.com/lavendery/AudioComposer/tree/main)
-
 - Audio Generation with Multiple Conditional Diffusion Model [AAAI 2024] [Paper](https://arxiv.org/abs/2308.11940) / [Code](https://conditionaudiogen.github.io/conditionaudiogen/)
+
+- T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.09294) / [Code](https://github.com/YoonjinXD/T-foley)
 
 
 ### TTA with Inference Acceleration
