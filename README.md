@@ -101,6 +101,7 @@ Welcome to PR if you want to add some resources !
 ### TTA with Reinforcement Learning 
 - T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback [ACL 2025] [Paper](https://www.arxiv.org/abs/2505.10561) 
 
+- TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization [arXiv 2025] [Paper](https://arxiv.org/abs/2412.21037) / [Code](https://github.com/declare-lab/TangoFlux)
 
 - Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization [ACM MM 2024] [Paper](https://arxiv.org/abs/2404.09956) / [Code](https://github.com/declare-lab/tango)
 
@@ -109,8 +110,6 @@ Welcome to PR if you want to add some resources !
 
 ### TTA with Retrieval-Augmented Generation
 - SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation [arXiv 2025] [Paper](https://arxiv.org/abs/2505.03244)
-
-- TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization [arXiv 2025] [Paper](https://arxiv.org/abs/2412.21037) / [Code](https://github.com/declare-lab/TangoFlux)
 
 - Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2411.05141)
 
