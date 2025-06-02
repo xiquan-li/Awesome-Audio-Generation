@@ -1,6 +1,6 @@
 # Awesome Text-to-Audio Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-This is a repository organizing papers, codes and other resources related to Text-to-Audio Generation (TTA), where **audio** denotes primarily **ambiant sound or music**.
+This is a repository organizing papers, codes and other resources related to Text-to-Audio Generation (TTA), where **audio** denotes primarily **ambient sound or music**.
 <!-- Note: Resources related to speech synthesis are not included in this repo.   -->
 
 Welcome to PR if you want to add some resources !
@@ -67,20 +67,19 @@ Welcome to PR if you want to add some resources !
 
 - AudioComposer: Towards Fine-grained Audio Generation with Natural Language Descriptions [ICASSP 2025] [Paper](https://arxiv.org/abs/2409.12560) / [Code](https://github.com/lavendery/AudioComposer/tree/main)
 
-- SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.09789)
-
 - PicoAudio: Enabling Precise Timestamp and Frequency Controllability of Audio Events in Text-to-audio Generation [ICASSP 2025] [Paper](https://arxiv.org/abs/2407.02869) / [Code](https://github.com/zeyuxie29/PicoAudio)
+
+- SILA: Signal-to-Language Augmentation for Enhanced Control in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.09789)
 
 - RiTTA: Modeling Event Relations in Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2412.15922)
 
 - Controllable Text-to-Audio Generation with Training-Free Temporal Guidance Diffusion [ICME 2024] [Paper](https://ieeexplore.ieee.org/document/10687830) 
 
-- Continuous descriptor-based control for deep audio synthesis [ICASSP 2023] / [Code](https://github.com/neurorave/neurorave)
-
 - Audio Generation with Multiple Conditional Diffusion Model [AAAI 2024] [Paper](https://arxiv.org/abs/2308.11940) / [Code](https://conditionaudiogen.github.io/conditionaudiogen/)
 
 - T-FOLEY: A Controllable Waveform-Domain Diffusion Model for Temporal-Event-Guided Foley Sound Synthesis [ICASSP 2024] [Paper](https://arxiv.org/abs/2401.09294) / [Code](https://github.com/YoonjinXD/T-foley)
 
+- Continuous descriptor-based control for deep audio synthesis [ICASSP 2023] / [Code](https://github.com/neurorave/neurorave)
 
 ### TTA with Inference Acceleration
 
