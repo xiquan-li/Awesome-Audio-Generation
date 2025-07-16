@@ -64,6 +64,9 @@ Welcome to PR if you want to add some resources !
 
 
 ### TTA with Fine-grained Control
+
+- FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generatio [ACM MM 2025] [Paper](https://arxiv.org/abs/2507.08557)
+
 - Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations [ICASSP 2025] [Paper](https://arxiv.org/abs/2412.08550)
 
 - AudioComposer: Towards Fine-grained Audio Generation with Natural Language Descriptions [ICASSP 2025] [Paper](https://arxiv.org/abs/2409.12560) / [Code](https://github.com/lavendery/AudioComposer/tree/main)
