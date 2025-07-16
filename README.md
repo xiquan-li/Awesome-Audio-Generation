@@ -11,8 +11,9 @@ Welcome to PR if you want to add some resources !
 
 ### TTA Foundation Models
 
-- Fugatto 1: Foundational Generative Audio Transformer Opus 1 [ICLR 2025] [Paper](https://openreview.net/forum?id=B2Fqu7Y2cd)
+- Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction [ICML 2025] [Paper](https://arxiv.org/abs/2507.09834) 
 
+- Fugatto 1: Foundational Generative Audio Transformer Opus 1 [ICLR 2025] [Paper](https://openreview.net/forum?id=B2Fqu7Y2cd)
 
 - AudioX: Diffusion Transformer for Anything-to-Audio Generation [arXiv 2025] [Paper](https://arxiv.org/abs/2412.09892)
 
