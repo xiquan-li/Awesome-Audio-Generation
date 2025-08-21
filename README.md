@@ -131,6 +131,14 @@ Welcome to PR if you want to add some resources !
 
 - AudioSpa: Spatializing Sound Events with Text [arXiv 2025] [Paper](https://arxiv.org/abs/2502.11219)
 
+
+## Downstream Applications of TTA Models
+- Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data [ICLR 2025] [Paper](https://arxiv.org/pdf/2410.02056)
+
+- Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification [ICASSP 2025 Workshop] [Paper](https://arxiv.org/abs/2504.03329)
+
+- Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition and Speech Modeling? [Interspeech 2024] [Paper](https://arxiv.org/abs/2406.08800)
+
 ## Datasets
 
 - AudioTime: A Temporally-aligned Audio-text Benchmark Dataset [ICASSP 2025] [Paper](https://arxiv.org/abs/2407.02857) / [Code](https://github.com/zeyuxie29/AudioTime)
