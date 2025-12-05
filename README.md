@@ -87,6 +87,8 @@ Welcome to PR if you want to add some resources !
 
 ### TTA with Inference Acceleration
 
+- MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows [arXiv 2025] [Paper](https://arxiv.org/abs/2508.06098)
+
 - AudioTurbo: Fast Text-to-Audio Generation with Rectified Diffusion [Interspeech 2025] [Paper](https://arxiv.org/abs/2505.22106)
 
 - Stable-Audio-Small: Fast Text-to-Audio Generation with Adversarial Post-Training [arXiv 2025] [Paper](https://arxiv.org/abs/2505.08175) / [Code](https://github.com/Stability-AI/stable-audio-tools)
