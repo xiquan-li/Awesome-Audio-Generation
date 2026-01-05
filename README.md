@@ -21,7 +21,6 @@ Welcome to PR if you want to add some resources !
 
 - CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions [arXiv 2025] [Paper](https://arxiv.org/abs/2501.16761)
 
-
 - ETTA: Elucidating the Design Space of Text-to-Audio Models [arXiv 2024] [Paper](https://arxiv.org/abs/2412.19351)
 
 - Make Some Noise: Towards LLM audio reasoning and generation using sound tokens [ICASSP 2025] [Paper](https://arxiv.org/abs/2503.22275)
@@ -65,6 +64,12 @@ Welcome to PR if you want to add some resources !
 
 ### TTA with Fine-grained Control
 
+- ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling [arXiv 2025] [Paper](https://arxiv.org/abs/2509.00683)
+
+- PicoAudio 2: Temporal Controllable Text-to-Audio Generation with Natural Language Description [arXiv 2025] [Paper](https://arxiv.org/abs/2509.00683)
+
+- DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer [arXiv 2025] [Paper](https://arxiv.org/abs/2508.13786)
+
 - FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generatio [ACM MM 2025] [Paper](https://arxiv.org/abs/2507.08557)
 
 - Sketch2Sound: Controllable Audio Generation via Time-Varying Signals and Sonic Imitations [ICASSP 2025] [Paper](https://arxiv.org/abs/2412.08550)
@@ -93,9 +98,7 @@ Welcome to PR if you want to add some resources !
 
 - Stable-Audio-Small: Fast Text-to-Audio Generation with Adversarial Post-Training [arXiv 2025] [Paper](https://arxiv.org/abs/2505.08175) / [Code](https://github.com/Stability-AI/stable-audio-tools)
 
-
 - SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound Generation [ICLR 2025] [Paper](https://arxiv.org/abs/2405.18503)
-
 
 - FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio Generation [arXiv 2024] [Paper](https://arxiv.org/abs/2410.12266)
 
