@@ -144,6 +144,14 @@ Welcome to PR if you want to add some resources !
 
 - Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition and Speech Modeling? [Interspeech 2024] [Paper](https://arxiv.org/abs/2406.08800)
 
+
+## Text-Guided Audio Editing: 
+- MMEDIT: A Unified Framework for Multi-Type  Audio Editing via Audio Language Model [arXiv 2026] [Paper](https://arxiv.org/abs/2512.20339)
+
+- SAO-Instruct: Free-form Audio Editing using Natural Language Instructions [NeurIPS 2025] [Paper](https://arxiv.org/abs/2510.22795) / [Code](https://github.com/eth-disco/sao-instruct)
+
+- AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models [NeurIPS 2023] [Paper](https://arxiv.org/abs/2304.00830)
+
 ## Datasets
 
 - AudioTime: A Temporally-aligned Audio-text Benchmark Dataset [ICASSP 2025] [Paper](https://arxiv.org/abs/2407.02857) / [Code](https://github.com/zeyuxie29/AudioTime)
