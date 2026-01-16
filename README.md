@@ -148,9 +148,16 @@ Welcome to PR if you want to add some resources !
 ## Text-Guided Audio Editing: 
 - MMEDIT: A Unified Framework for Multi-Type  Audio Editing via Audio Language Model [arXiv 2026] [Paper](https://arxiv.org/abs/2512.20339)
 
+- RFM-Editing: Rectified flow matching for text-guided audio editing [arXiv 2025] [Paper](https://arxiv.org/abs/2509.14003)
+
 - SAO-Instruct: Free-form Audio Editing using Natural Language Instructions [NeurIPS 2025] [Paper](https://arxiv.org/abs/2510.22795) / [Code](https://github.com/eth-disco/sao-instruct)
 
+- AudioEditor: A Training-Free Diffusion-Based  Audio Editing Framework [ICASSP 2025] [Paper](https://arxiv.org/abs/2409.12466)
+  
 - AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models [NeurIPS 2023] [Paper](https://arxiv.org/abs/2304.00830)
+
+- Audio Editing with Non-Rigid Text Prompts [Interspeech 2024] [Paper](https://arxiv.org/abs/2310.12858)
+
 
 ## Datasets
 
