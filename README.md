@@ -139,9 +139,14 @@ Welcome to PR if you want to add some resources !
 
 
 ### TTA Benchmarks 
+- AQAScore: Evaluating Semantic Alignment in Text-to-Audio Generation via Audio Question Answering [arXiv 2026] [Paper](https://arxiv.org/abs/2601.14728)
+ 
 - TTA-Bench: A Comprehensive Benchmark for Evaluating Text-to-Audio Models [AAAI 2026] [Paper](https://arxiv.org/abs/2509.02398) [Code](https://github.com/NKU-HLT/TTA-Bench-tools)
 
 - AUDIOEVAL: AUTOMATIC DUAL-PERSPECTIVE AND MULTI-DIMENSIONAL EVALUATION OF TEXT-TO-AUDIO-GENERATION [arXiv 2025] [Paper](https://arxiv.org/abs/2510.14570)
+
+- RELATE: Subjective evaluation dataset for automatic evaluation of relevance between text and audio [Interspeech 2025] [Paper](https://www.isca-archive.org/interspeech_2025/kanamori25_interspeech.pdf)
+
 
 ### Downstream Applications of TTA Models
 - Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data [ICLR 2025] [Paper](https://arxiv.org/pdf/2410.02056)
