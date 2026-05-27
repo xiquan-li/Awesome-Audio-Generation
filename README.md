@@ -68,7 +68,7 @@ Welcome to PR if you want to add some resources !
 
 ### TTA with Fine-grained Control
 
-- ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling [arXiv 2025] [Paper](https://arxiv.org/abs/2509.00683)
+- ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling [arXiv 2025] [Paper](https://arxiv.org/abs/2510.08878)
 
 - PicoAudio 2: Temporal Controllable Text-to-Audio Generation with Natural Language Description [arXiv 2025] [Paper](https://arxiv.org/abs/2509.00683)
 
