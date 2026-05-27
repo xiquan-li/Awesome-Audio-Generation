@@ -11,6 +11,10 @@ Welcome to PR if you want to add some resources !
 
 ### TTA Foundation Models
 
+- Woosh: Sound Effect Generative Models [arXiv 2026] [Paper](https://arxiv.org/abs/2604.01929) / [Code](https://github.com/SonyResearch/Woosh)
+
+- STABLE AUDIO 3 [arXiv 2026] [Paper](https://arxiv.org/abs/2605.17991) / [Code](https://github.com/Stability-AI/stable-audio-3)
+
 - Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction [ICML 2025] [Paper](https://arxiv.org/abs/2507.09834) 
 
 - Fugatto 1: Foundational Generative Audio Transformer Opus 1 [ICLR 2025] [Paper](https://openreview.net/forum?id=B2Fqu7Y2cd)
