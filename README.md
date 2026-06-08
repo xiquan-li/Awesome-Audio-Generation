@@ -188,4 +188,4 @@ Welcome to PR if you want to add some resources !
 TODO 
 
 ### Toolbox 
-TODO
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
