@@ -114,6 +114,10 @@ Welcome to PR if you want to add some resources !
 
 
 ### TTA with Reinforcement Learning 
+- Improving Text-to-Audio Instruction Following via Fine-Grained Feedback from Audio-Aware Large Language Models [Interspeech 2026] [Paper](https://arxiv.org/pdf/2607.13408)
+
+- Resonate: Reinforcing Text-to-Audio Generation via Online Feedback from Large Audio Language Models [Interspeech 2026] [Paper](https://arxiv.org/abs/2603.11661)
+
 - T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback [ACL 2025] [Paper](https://www.arxiv.org/abs/2505.10561) 
 
 - TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization [arXiv 2025] [Paper](https://arxiv.org/abs/2412.21037) / [Code](https://github.com/declare-lab/TangoFlux)
